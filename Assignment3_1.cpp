@@ -1,3 +1,5 @@
+/*For given   e.g. a-b*c-d/ e+ f construct inorder sequence and traverse it using postorder traversal (non- recursive). 
+Change a tree so that the roles of the left and right pointers are swa ed at eve node*/
 #include<iostream>
 #include<stack>
 #include<string.h>
