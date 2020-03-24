@@ -1,3 +1,10 @@
+/*Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. 
+After constructing a binary tree-
+i)Insert new node
+ii)Find number of nodes in longest path 
+iii) Minimum data value found in the tree 
+iv) Search a value.
+*/
 #include<iostream>
 #include<stack>
 using namespace std;
