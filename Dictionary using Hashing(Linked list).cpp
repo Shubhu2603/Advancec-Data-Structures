@@ -1,3 +1,7 @@
+/*Implement all the functions of a dictionary (ADT) using hashing.
+Data: Set of(key, value) pairs, keys are mapped to values, keys must be comparable, keys must be unique
+Standard Operations: Insert(key, value),Find(key),Delete(key)
+*/
 #include<iostream>
 #include<string.h>
 using namespace std;
